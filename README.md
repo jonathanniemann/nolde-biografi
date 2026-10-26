@@ -18,4 +18,4 @@ En enkel statisk hjemmeside i ren HTML og CSS, udgivet med GitHub Pages.
 
 ## Kapitler som PDF
 
-Indtil videre kan prologen og forordet læses som PDF. Flere kapitler kommer løbende.
+Alle kapitler – fra prologen til epilogen – samt litteraturlisten kan læses som PDF. Filerne ligger i `assets/pdf/`.
